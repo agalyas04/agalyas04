@@ -1,22 +1,8 @@
 <!-- Top-Right Illustration (replace SRC with a valid direct URL ending in .png or .svg) -->
-<a href="https://iconscout.com/illustrations/female-coder" target="_blank">
-  <img align="right" width="280" style="border-radius: 16px;" alt="Female Coder Illustration"
-       src="https://cdn.iconscout.com/illustration/premium/thumb/female-coder-4307652-3599387.png" />
-</a>
-
 <h1 align="center">Hi 👋, I'm Agalya S</h1>
 
-<!-- Animated subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=Full-Stack+developer+turning+coffee+into+code+☕💻;MERN+Learner+%7C+Java+Enthusiast+%7C+Music+Lover+🎵;Building+clean%2C+scalable+web+apps+one+commit+at+a+time+🚀" alt="Typing SVG" />
-</p>
-
-<!-- Intro badges -->
-<p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=agalyas04&style=flat&color=0D1117&label=Profile+Views">
-  <img alt="Learning MERN" src="https://img.shields.io/badge/Learning-MERN-0D1117">
-  <img alt="Language: Java" src="https://img.shields.io/badge/Language-Java-0D1117">
-  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Agalya04-0D1117">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Ideas+into+Impactful+Products;Building+with+AI%2C+React%2C+Node%2C+MongoDB;Let's+create+smarter+solutions+together" alt="Typing SVG" />
 </p>
 
 ---
@@ -67,11 +53,11 @@
 
 ### ​​ Contribution Fun (Pac-Man)
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agalyas04/agalyas04/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agalyas04/agalyas04/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agalyas04/agalyas04/output/pacman-contribution-graph.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiranjeeviK/SiranjeeviK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiranjeeviK/SiranjeeviK/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SiranjeeviK/SiranjeeviK/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 ---
